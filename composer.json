@@ -6,13 +6,6 @@
         "magento/module-checkout": "100.2.*",
         "magento/module-backend": "100.2.*"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/sumansingh51/trurating-rating.git"
-        }
-    ],
-    "minimum-stability": "stable",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
@@ -21,8 +14,8 @@
     ],
     "authors": [
         {
-          "name": "Iranga Gamage",
-          "email": "support@trurating.com"
+          "name": "Suman Singh",
+          "email": "support@test.com"
         }
     ],
     "autoload": {
@@ -30,7 +23,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Trurating\\Rating\\": ""
+            "Suman\\Hello\\": ""
         }
     }
 }
