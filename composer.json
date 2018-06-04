@@ -7,7 +7,7 @@
         "magento/module-backend": "100.2.*"
     },
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimum-stability": "stable",
     "license": [
         "OSL-3.0",
